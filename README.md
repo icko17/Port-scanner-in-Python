@@ -33,20 +33,20 @@ Uses `socket`, `tqdm`, and `ThreadPool` for fast scanning of open ports.
 
 ## 🚀 Usage
 
---Replace the HOST variable in port_scanner.py with your target IP address:
+- Replace the HOST variable in port_scanner.py with your target IP address:
     
-    HOST = '192.168.11.33'  # <- your target IP
+      HOST = '192.168.11.33'  # <- your target IP
 
---Run the script:
+- Run the script:
     
-    python3 port_scanner.py
+      python3 port_scanner.py
 
 ## 🧠 What I Learned
 
-  -Working with sockets in Python
+  - Working with sockets in Python
 
-  -Basic network programming (TCP ports)
+  - Basic network programming (TCP ports)
 
-  -Multithreading with ThreadPool
+  - Multithreading with ThreadPool
 
-  -Visual progress tracking with tqdm
+  - Visual progress tracking with tqdm
