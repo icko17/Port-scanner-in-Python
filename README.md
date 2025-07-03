@@ -38,6 +38,7 @@ Uses `socket`, `tqdm`, and `ThreadPool` for fast scanning of open ports.
     HOST = '192.168.11.33'  # <- your target IP
 
 --Run the script:
+    
     python3 port_scanner.py
 
 ## 🧠 What I Learned
